@@ -1,5 +1,10 @@
-Sort algorithms in JavaScript:
+Complete sorting algorithms collections, it is a implementation of variety of sorting algorithms at one place and trying to monetize the performance.
 
+All the programs are implemented in Javascript and runs very well in all the browser except the heap-sort, (it only works for arrays less than 100 elements and if enter more elements, the program freeze.).
+
+Separate files with different implementation are recorded and displayed here. 
+
+Lyan Mackay - Assistant algorithm developer for http://www.shoppingtroll.com/
 1. QuickSort - Done
 2. MergeSort - Done
 3. ShellSort - Done
